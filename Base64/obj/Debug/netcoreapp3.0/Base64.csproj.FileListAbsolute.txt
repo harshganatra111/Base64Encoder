@@ -1,0 +1,11 @@
+/Users/harshganatra/Projects/Base64/Base64/obj/Debug/netcoreapp3.0/Base64.csprojAssemblyReference.cache
+/Users/harshganatra/Projects/Base64/Base64/obj/Debug/netcoreapp3.0/Base64.AssemblyInfoInputs.cache
+/Users/harshganatra/Projects/Base64/Base64/obj/Debug/netcoreapp3.0/Base64.AssemblyInfo.cs
+/Users/harshganatra/Projects/Base64/Base64/bin/Debug/netcoreapp3.0/Base64
+/Users/harshganatra/Projects/Base64/Base64/bin/Debug/netcoreapp3.0/Base64.deps.json
+/Users/harshganatra/Projects/Base64/Base64/bin/Debug/netcoreapp3.0/Base64.runtimeconfig.json
+/Users/harshganatra/Projects/Base64/Base64/bin/Debug/netcoreapp3.0/Base64.runtimeconfig.dev.json
+/Users/harshganatra/Projects/Base64/Base64/bin/Debug/netcoreapp3.0/Base64.dll
+/Users/harshganatra/Projects/Base64/Base64/bin/Debug/netcoreapp3.0/Base64.pdb
+/Users/harshganatra/Projects/Base64/Base64/obj/Debug/netcoreapp3.0/Base64.dll
+/Users/harshganatra/Projects/Base64/Base64/obj/Debug/netcoreapp3.0/Base64.pdb
